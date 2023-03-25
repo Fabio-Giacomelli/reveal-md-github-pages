@@ -14,6 +14,7 @@ revealOptions:
 
 # reveal-md & github-pages
 
-{{1_getStarted.md}}
+{{{1_getStarted.md}}
 {{2_writing.md}}
-{{3_extras.md}}
+{{3_extras.md}}}
+{{Propositional_Logic.md}}
