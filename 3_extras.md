@@ -56,4 +56,3 @@ A -> B
 
 # The End
 
-have fun ;)
