@@ -2,7 +2,6 @@
 title: reveal-md deployed to gh-pages
 separator: <!--s-->
 verticalSeparator: <!--v-->
-theme: solarized
 highlight-theme: monokai
 css: custom.css
 revealOptions:
@@ -12,6 +11,5 @@ revealOptions:
   backgroundTransition: 'fade'
 ---
 
-# reveal-md & github-pages
 
 {{Propositional_Logic.md}}
