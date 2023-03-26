@@ -1,5 +1,5 @@
 ---
-title: reveal-md deployed to gh-pages
+title: 
 separator: <!--s-->
 verticalSeparator: <!--v-->
 highlight-theme: monokai
